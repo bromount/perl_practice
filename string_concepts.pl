@@ -8,7 +8,7 @@ print "$str\n";
 
 print "@str\n";
 
-$str = "This is \Etest \again";
+$str = "\QThis is \Etest \again";
 
 print "$str\n";
 
