@@ -5,4 +5,8 @@
 
 print "first person is $names[0] = $ages[0]\n";
 
+%data = ('user1',25,'user2',40,"user3",34);
+
+print "user is $data[0] = $data{'user1'}\n";
+
 
