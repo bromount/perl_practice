@@ -1,5 +1,7 @@
 #!/usr/bin/perl
 
+use warnings;
+
 @ages = (25,40,34);
 @names = ("user1","user2","user3");
 
