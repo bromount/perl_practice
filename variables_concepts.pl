@@ -1,5 +1,7 @@
 #!/usr/bin/perl
 
+use warnings;
+
 $a = 33;
 $n = "Annamalai Arunachalam";
 $s = 128000.75;
